@@ -13,15 +13,10 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Pete Ashton
-email: pete@peteashton.com
-phone: 07775 690 106
-description: > 
-  Pete Ashton is an artist and photographer based in Birmingham, UK. 
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://peteashton.com" # the base hostname & protocol for your site
-twitter_username: peteashton
-github_username:  peteash10
+title: Andy Howlett
+
+# baseurl: "" # the subpath of your site, e.g. /blog
+# url: "http://andyhowlett.co.uk" # the base hostname & protocol for your site
 
 # Build settings
 markdown: kramdown

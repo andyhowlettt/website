@@ -4,7 +4,7 @@ title: Home
 permalink: /
 ---
 
-Hello, I'm Andy Howlett, an artist and filmmaker based in Birmingham, UK. I'm interested in walking, concrete, expanded cinema, guerrilla heritage and other things.
+Hello, I'm Andy Howlett, an artist and filmmaker based in Birmingham, UK. I'm interested in walking, concrete, expanded cinema and guerrilla heritage. Here are some of my [films](https://vimeo.com/deadlyseriousproductions).
 
 Email: andyhowlett@hotmail.com  
 [Twitter](https://twitter.com/aphowlett)  

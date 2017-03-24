@@ -12,7 +12,7 @@ Email: andyhowlett@hotmail.com
 
 ![](images/andy.jpg)
 
-## Projects
+## Projectses
 
 - [Paradise Lost: History in the Un-Making](https://www.indiegogo.com/projects/paradise-lost-history-in-the-un-making-architecture) - Feature length video-essay investigating the untimely demise of John Madin's brutalist Central Library.
 

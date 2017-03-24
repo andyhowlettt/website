@@ -5,49 +5,23 @@ permalink: /
 category: menu
 ---
 
-# This is Pete Ashton's website
+# Andy Howlett
 
-[I'm an artist](http://art.peteashton.com), working with cameras and data, based in Birmingham in the North West of Europe.
+Hello, I'm an artist and filmmaker based in Birmingham, UK. I'm interested in walking, concrete, expanded cinema, guerrilla heritage and other things.
 
-## Contact
+Email: andyhowlett@hotmail.com  
+[Twitter](https://twitter.com/aphowlett)  
+[Facebook](https://www.facebook.com/andy.howlett.5)
 
-Email: pete@peteashton.com  
-Tel: +44 (0)7776 690 106  
-Twitter: [@peteashton](http://twitter.com/peteashton)
-
-![](images/29245876503_038141b55f_o.jpg)
-
-## Blog
-
-Sometimes my head gets too full and I need to pour words into [blog.peteashton.com](http://blog.peteashton.com).
-
-## Newsletter
-
-I send a "what Pete's up to" email out every couple of months. [Subscribe here.](http://eepurl.com/bSB4Kn)
-
+![](images/andy.jpg)
 
 ## Projects
 
-I'm involved in various things, often with other people. 
+- [Paradise Lost: History in the Un-Making](https://www.indiegogo.com/projects/paradise-lost-history-in-the-un-making-architecture) - Feature length video-essay investigating the untimely demise of John Madin's brutalist Central Library.
 
--	[Photo School](http://photo-school.co.uk) - Teaching photography and running photo walks in Birmingham. 
- 
--	[Birmingham Camera Obscura](http://bhamobscura.com) - Exploring and building camera obscuras with Jenny Duffin.  
-
--	[Cross City Walks](http://xcw.org.uk) - A walking project bisecting cities in straight lines with Andy Howlett.
-
--	[Bunminster Fuller & co](http://bunminster.uk) - Rabbits are awesome.  
-
-## Presences
-
-I have content on the following commercial online services:
-
--	[Twitter](https://twitter.com/peteashton)  
--	[Tumblr](http://peteashton.tumblr.com)  
--	[Vimeo](http://vimeo.com/peteashton/)
--	[Pinboard](https://pinboard.in/u:peteashton/)  
--	[GitHub](https://github.com/peteash10) 
--	[Instapaper](https://www.instapaper.com/p/peteashton) 
--	[Instagram](https://www.instagram.com/peteashton/)  
--	[Flickr](https://www.flickr.com/photos/peteashton/)
+- [The Magic Cinema](https://en-gb.facebook.com/themagiccinema/)  - DIY film night with "open reel". Bring along a short film and we'll show it. (no actual reel involved) Will be teaming up with Home For Waifs and Strays for a live art cinema called IT'S ALIVE! in 2017
+- [Video Strolls](http://videostrolls.com) - Community of artists and filmmakers concerned with place, people and journeying. We host regular public screenings at festivals and things.
+- [Cross City Walks](http://xcw.org.uk) - A walking project bisecting cities in straight lines with Pete Ashton.
+- Dream 53 - Live art project invoking the spirit of a lost Birmingham Surrealist film.
+- Scalarama Birmingham - co-ordinator for the annual celebration of cinema.
 

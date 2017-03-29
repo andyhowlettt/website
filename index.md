@@ -17,7 +17,6 @@ Facebook: [Facebook](https://www.facebook.com/andy.howlett.5)
 ## Stuff I'm doing
 
 - [Paradise Lost: History in the Un-Making](https://www.indiegogo.com/projects/paradise-lost-history-in-the-un-making-architecture) - A feature length video-essay investigating the untimely demise of John Madin's brutalist Central Library. Successfully crowdfunded in 2016, to be released (hopefully) in 2017.
-
 - [The Magic Cinema](https://en-gb.facebook.com/themagiccinema/)  - A DIY film night with "open reel" policy - bring along a short film and we'll show it (no actual reel involved). The Magic Cinema also provides a testing ground for more experimental material that brings live/performance elements into the cinematic setting. 
 We're teaming up with [Home For Waifs and Strays](http://hfwas.co.uk/) for a Live Art Cinema called [IT'S ALIVE!](http://hfwas.co.uk/?p=3694)
 - [Video Strolls](http://videostrolls.com) - A Community of artists and filmmakers who make work concerned with place, people and journeying. We host regular public screenings at festivals and we have a [Film of the Month](http://www.caughtbytheriver.net/category/videostrolls/) column at Caught by the River.

@@ -18,7 +18,7 @@ Facebook: [Facebook](https://www.facebook.com/andy.howlett.5)
 
 - [Paradise Lost: History in the Un-Making](https://www.indiegogo.com/projects/paradise-lost-history-in-the-un-making-architecture) - A feature length essay-film investigating the untimely demise of John Madin's brutalist Central Library. Successfully crowdfunded in 2016, to be released one day.
 
-- [Walkspace] (http://walkspace.uk/) - A Birmingham-based walking collective I co-founded in 2020 with walking artists [Pete Ashton] (http://peteashton.com/) and [Fiona Cullinan] (http://fionacullinan.com/). From gentle strolls to hardcore psychogeography, group walks to solo explorations, Walkspace will report on walks that have happened, promote walks that are due to happen and generally discuss the interesting, weird edges of the humble perambulation. 
+- [Walkspace](http://walkspace.uk/) - A Birmingham-based walking collective I co-founded in 2020 with walking artists [Pete Ashton](http://peteashton.com/) and [Fiona Cullinan](http://fionacullinan.com/). From gentle strolls to hardcore psychogeography, group walks to solo explorations, Walkspace will report on walks that have happened, promote walks that are due to happen and generally discuss the interesting, weird edges of the humble perambulation. 
 
 - [The Magic Cinema](https://en-gb.facebook.com/themagiccinema/)  - A DIY film night with "open reel" policy - bring along a short film and we'll show it (no actual reel involved). The Magic Cinema also provides a testing ground for more experimental material that brings live/performance elements into the cinematic setting. Ran from 2013 - 2016 at Ort Cafe and 2019 - present at Artefact.
 
